@@ -1,0 +1,18 @@
+{
+  "email": "test@example.com",
+  "photo": "aa.jpg",
+  "name": "Doe",
+  "firstname": "John",
+  "password": "password123",
+  "birthdate": "1990-01-01",
+  "birthPlace": "Canada",
+  "sexe": "masculin",
+  "nationalite": "Cameroun",
+  "phoneNumber": "123456789",
+  "typeDocument": "cni",   
+  "numeroDocument": "12QSD4153456789"    ,
+  "motifInscription": "immigration au canada",
+  "langueUsuelle": "français",
+  "recto": "bb.jpg",
+  "verso": "cc.png"
+}
